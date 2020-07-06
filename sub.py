@@ -2,7 +2,6 @@
 # -*- coding: latin-1 -*-
 import requests
 import os
-import time
 print """
                                     /)
                                    //
